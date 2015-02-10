@@ -3,7 +3,7 @@
     
     <name>JCCC Showcase</name>
     <description>A Showcase of student projects at JCCC</description>
-    <author email="slentz999@yahoo.com" href="http://www.lentz.co">Sam</author>
+    <author email="slentz999@yahoo.com" href="http://lentz.co">Sam</author>
 
     <preference name="phonegap-version" value="3.6.3" />
     <feature name="http://api.phonegap.com/1.0/device" />
